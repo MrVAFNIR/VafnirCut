@@ -2,6 +2,14 @@
 
 # ✂️ VafnirCut — Automated Silence Cutter for Premiere Pro
 
+<div align="center">
+  <h1>✂️ VafnirCut — Automated Silence Cutter</h1>
+  
+  <img src="interface.png" alt="VafnirCut Interface" width="450">
+  
+  <p><em>A stylish multi-channel auto-editor with 6 custom themes</em></p>
+</div>
+
 **VafnirCut** is a free and "stylish" plugin for Adobe Premiere Pro that automatically cuts out silence and heavy breaths from your video and audio tracks using neural networks (powered by [auto-editor](https://github.com/WyattBlue/auto-editor)).
 
 No more spending hours on rough cuts — the plugin does it for you in one click!
