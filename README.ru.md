@@ -1,3 +1,5 @@
+[English](README.md) | **Русский**
+
 # ✂️ VafnirCut — Автоматическая нарезка тишины для Premiere Pro
 
 **VafnirCut** — это бесплатный и "стильный" плагин для Adobe Premiere Pro, который автоматически вырезает тишину и вздохи из ваших видео и аудиодорожек с помощью нейросетей (на базе [auto-editor](https://github.com/WyattBlue/auto-editor)).
